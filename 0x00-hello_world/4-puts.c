@@ -1,6 +1,4 @@
-#include <stdio.h>
-
-
+#include<stdio.h>
 
 /**
  *
@@ -18,10 +16,7 @@
 
 int main(void)
 
-/*
- * this program prints "Programming is like building a multilingual puzzle"
- *
- */
+ /* this program prints "Programming is like building a multilingual puzzle" */
 
 {
 
