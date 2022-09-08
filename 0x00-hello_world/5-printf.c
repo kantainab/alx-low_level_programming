@@ -16,10 +16,7 @@
 
 int main(void)
 
-/*
- * this program prints "with proper grammer, but the out come is a piece of art"
- *
- */
+/* this program prints "with proper grammer, but the out come is a piece of art */
 
 {
 
