@@ -1,4 +1,4 @@
-#include<stdio.h> //header section
+#include<stdio.h>
 
 	/**
 	 * main - using the function puts
