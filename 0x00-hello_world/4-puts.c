@@ -1,13 +1,7 @@
-#include<stdio.h>
-/*
- *main - this program prints "Programming is like building a multilingual puzzle
- *
- * Return: 0
- *
- */
-int main(void)
- /*main - this program prints "Programming is like building a multilingual puzzle" */
+#include<stdio.h> //header section
+
+int main ()	//main section
 {
-		puts("\"Programming is like building a multilingual puzzle");
-			return (0);
+	printf("with proper grammar, but the outcome is a piece of art,");
+	return 0;
 }
