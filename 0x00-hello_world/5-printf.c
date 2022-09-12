@@ -1,15 +1,7 @@
-#include<stdio.h>
-/**
- * main - print the string in the put function
- *
- * Description: using the main function
- *
- * Return: 0
- *
- */
-int main(void)
-/* this program prints "with proper grammer, but the out come is a piece of art */
+#include <stdio.h> //header section
+
+int main ()	//main header
 {
-		printf("with proper grammar, but the outcome is a piece of art,\n");
-			return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return 0;
 }
